@@ -1,0 +1,92 @@
+---
+title: "Administración de Riesgo"
+author: "Chávez Huapeo Jacqueline, Flores Ochoa Sofia Libertad, Mendoza Esteban Lizzet, López Carmona Audrey Carolina, Rosas Moreno Alesi"
+format: revealjs
+editor: visual
+---
+
+## Origen de la Administración de Riesgos
+
+::::: columns
+::: {.column width="40%"}
+-   Juegos de azar
+
+-   Seguros
+
+    -   Época clásica y siglo XVII
+
+    -   1950
+
+    -   1970 a 1990
+:::
+
+::: {.column width="60%"}
+![](https://i.pinimg.com/736x/8b/0e/b2/8b0eb2f126fad3c5d3f01de056898153.jpg){ fig-align="center" width=425}
+:::
+:::::
+
+## Casos Prácticos
+
+-   El pavoroso incendio que destruyó Londres en 1666.
+
+    *Con este acontecimiento de Catástrofes Urbanas se revelaron correlaciones, fuerzan tarificación, prevención y normas constructivas.*
+
+-   RMS Titanic de 1912.
+
+    *La comunidad internacional adoptó el convenio SOLAS, estándar central de seguridad marítima, establece normas mínimas para la construcción, equipamiento y operación de buques mercantes para garantizar la seguridad de la vida en el mar*
+
+## 
+
+-   Exxon Valdez (1989). *OPA 1990*
+
+    *Se fortalece la prevención y respuesta (planes obligatorios, fondo fiduciario financiado vía impuesto al petróleo, responsabilidades más estrictas).*
+
+-   Crisis Financiera Global (2007-2009) Basilea II.
+
+    *Existía subestimación de riesgos de crédito/mercado, apalancamiento y fallas de liquidez.*
+
+    ![](https://www.dineroenimagen.com/800x600/filters:format(webp):quality(75)/media/dinero/images/2022/10/crisis-financiera.jpg){fig-align="center" width="9.2cm"}
+
+## Basilea I : La base de la regulación financiera internacional
+
+**¿Qué es Basilea I y cómo surge?**
+
+Es el primer conjunto de regulaciones que constituye el comité de supervisión bancaria de Basilea y fue implementado en 1988. Su objetivo era la estabilidad financiera.
+
+![](https://cdn-icons-png.flaticon.com/512/17026/17026965.png){fig-align="center" width="5.5cm"}
+
+## 
+
+**¿Qué piden y cómo se aplican?**
+
+En ella el comité define los requisitos mínimos de capital con el que los bancos debían de contar para hacer frente a los riesgos de crédito, mercado y tipo de cambio.
+
+Estos mínimos se calculan como un porcentaje de los activos ponderados por riesgo, manteniendo un capital mínimo del 8% sobre esos activos.
+
+![](data:image/png;base64,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){fig-align="center" width="10cm"}
+
+## Origen y explicación de Riskmetrics
+
+RiskMetrics es una metodología desarrollada por J.P. Morgan en la década de 1980 para medir y gestionar el riesgo financiero, especialmente el riesgo de mercado.
+
+En esta metodología se utilizaron datos históricos para pronosticar la volatilidad de los precios de los activos y las correlaciones entre ellos, esto permitía calcular el **Valor en Riesgo (VaR)** y tomarlo como una medida de referencia.
+
+## 
+
+**RiskMetrics se basa en dos supuestos de modelado fundamentales:**
+
+1.  La rentabilidad de los factores de riesgo se distribuye normalmente.
+
+2.  La volatilidad de los factores de riesgo se estima mejor utilizando una media móvil ponderada exponencialmente de las rentabilidades pasadas
+
+    ![](https://support.minitab.com/es-mx/minitab/media/generated-content/images/distribution_plot_hypothetical_standard_normal_distribution.png){fig-align="center" width="9.5cm"}
+
+## Relación de RiskMetrics con Basilea I
+
+Basilea pide que demuestres el riesgo que calculaste y cuánto estimas que perderás y cuánto deberías tener en reservas mientras que RiskMetrics entrega una métrica cuantitativa que Basilea acepta para riesgo de mercado, lo cual permite que sea posible demostrar el riesgo de mercado.
+
+![](https://pharmar.github.io/riskmetric/logo.png){fig-align="center" width="7cm"}
+
+## Conclusiones grupales.
+
+El avance de la regulación internacional y de los modelos de medición de riesgos confirma que el aprendizaje que se ha tenido de las crisis pasadas ha sido fundamental para diseñar un sistema financiero más estable. El desafío que se tiene hacia el futuro será mantener un equilibrio entre el cumplimiento normativo y la capacidad de adaptación ante nuevos riesgos globales, asegurando que la gestión de riesgos siga siendo una herramienta estratégica para la estabilidad y el desarrollo económico a nivel mundial.
